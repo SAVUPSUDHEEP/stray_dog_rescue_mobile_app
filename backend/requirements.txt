@@ -1,0 +1,8 @@
+flask
+flask-cors
+tensorflow
+pillow
+firebase-admin
+numpy<2
+ultralytics
+google-generativeai
